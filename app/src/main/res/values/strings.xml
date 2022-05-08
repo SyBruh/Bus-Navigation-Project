@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yangon Bus System</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="registertext">Don\'t have an account, Click here to register</string>
+    <string name="home_menu">Home</string>
+    <string name="bus_menu">Bus</string>
+    <string name="payment_menu">Payment</string>
+    <string name="bruh">Bruh</string>
+    <string name="profile">Profile</string>
+    <string name="callbus">CallBus</string>
+    <string name="startstop">Search Start Bus Stop</string>
+    <string name="endstop">Search End Bus Stop</string>
+    <string name="search">Search</string>
+    <string name="busstop">BusStop</string>
+    <string name="texts">Texts</string>
+    <string name="map">Map</string>
+    <string name="bus_number">Bus Number :</string>
+    <string name="operating_time_from">Operating Time : From</string>
+    <string name="start_busgate">Start BusGate :</string>
+    <string name="stop_busgate">Stop BusGate :</string>
+    <string name="price">Price :</string>
+    <string name="to">To</string>
+    <string name="no_of_gates">No of Gates :</string>
+    <string name="bus_gates_stop_lists">Bus Gates/Stop Lists</string>
+    <string name="ride_history">Ride History</string>
+    <string name="busid">BusID</string>
+</resources>
